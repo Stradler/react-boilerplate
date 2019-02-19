@@ -14,3 +14,4 @@ Includes basic webpack React Setup + SCSS support and basic build scripts for di
 -   [ ] -   Add Testing Support
 -   [ ] -   Move setting files to different location
 -   [ ] -   Add minifiers
+-   [ ] -   Better Instructions
