@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './styles/main.less';
 
 class Welcome extends React.Component {
     render() {
